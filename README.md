@@ -12,8 +12,8 @@ Title->Assignment 1
 This assignment consists of all the programs from basic to advance level of c++ programs according to the OOPS syllabus.
 
 ## List of Programs
-**1**-[Program to print "Hello world" using c++](1.cpp)
-**2**-[Program to print data types and their sizes](2.cpp)
+1-[Program to print "Hello world" using c++](1.cpp)<br>
+2-[Program to print data types and their sizes](2.cpp)
 3-[Program to swap two numbers using third variable](3.cpp)
 4-[Program to swap two numbers without using third variable](4.cpp)
 5-[Program using const keyword](4.cpp)
