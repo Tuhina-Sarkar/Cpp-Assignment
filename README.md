@@ -121,7 +121,7 @@ This assignment consists of all the programs from basic to advance level of c++ 
 131-[Program using file opening modes](131.cpp)
 132-[Program writing objects into file](132.cpp)
 133-[Program to store student data using file handling](133.cpp)
-134-[Program reading until EOF(134.cpp)
+134-[Program reading until EOF](134.cpp)
 136-[Program checking if file exists](136.cpp)
 146-[Program using try-catch block](146.cpp)
 147-[Program throwing an integer exception](147.cpp)
