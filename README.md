@@ -16,7 +16,7 @@ This assignment consists of all the programs from basic to advance level of c++ 
 2-[Program to print data types and their sizes](2.cpp)<br>
 3-[Program to swap two numbers using third variable](3.cpp)<br>
 4-[Program to swap two numbers without using third variable](4.cpp)<br>
-5-[Program using const keyword](4.cpp)<br>
+5-[Program using const keyword](5.cpp)<br>
 6-[Program to calculate simple interest](6.cpp)<br>
 7-[Program to convert temperature (C to F)](7.cpp)<br>
 8-[Program to find ASCII value of a character](8.cpp)<br>
@@ -41,8 +41,8 @@ This assignment consists of all the programs from basic to advance level of c++ 
 27-[Program using while loop to print table](27.cpp)<br>
 28-[Program using do-while to print number series](28.cpp)<br>
 29.1-[Program demonstrating continue](29.1.cpp)<br>
-29.2.[Program demonstrating break](29.2.cpp)<br>
-30[Program to show use of goto](30.cpp)<br>
+29.2-[Program demonstrating break](29.2.cpp)<br>
+30-[Program to show use of goto](30.cpp)<br>
 31-[Program to input and display array elements](31.cpp)<br>
 32-[Program to find largest element in array](32.cpp)<br>
 33-[Program to find second-largest element](33.cpp)<br>
@@ -110,7 +110,7 @@ This assignment consists of all the programs from basic to advance level of c++ 
 105-[Program with pointer to base class calling derived functions](105.cpp)<br> 
 111-[Program implementing bank system using OOPS](111.cpp)<br>
 112-[Program implementing student result processing using OOPS](112.cpp)<br>
-114-[Program implementine employee payroll system](114.cpp)<br>
+114-[Program implementing employee payroll system](114.cpp)<br>
 117-[Program using multiple classes with composition](117.cpp)<br>
 121-[Program using cin and cout](121.cpp)<br>
 122-[Program reading full sentence using getline](122.cpp)<br>
